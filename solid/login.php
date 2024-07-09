@@ -24,7 +24,7 @@ header('location://localhost/solid/index.html');
 
 }else{
 
-    header('location://localhost/solid/addlogin.html');
+    header('location://localhost/html/addlogin.html');
 }
 
 ?>
